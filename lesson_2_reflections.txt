@@ -26,6 +26,10 @@ to maintain the original source in its own seperate branch.
 
 How do the diagrams help you visualize the branch structure?
 
+Branch structure can be complex with multiple branches and timelines for commits,
+diagrams help visualize the path of commits from a certain branch and how and when
+they deviated from the master or other branches.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
