@@ -1,0 +1,41 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    By immediately showing the differences in the files it allows you to bypass large amounts of code
+    that was unchanged and to zero in on the changes alone.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Yes, you can use old code as reference points for progress or to roll back mistakes.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pro is you can decide exactly when to create a commit, thereby providing logical structure
+    to version control.  Automatic methods may save at inappropriate times (perhaps something isn't
+    finished).  The con is you have to have the discipline to remember when to and actually carry out
+    the commits.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    In some cases a project consists of multiple files that are interconnected, such as code projects
+    which make more sense to save as bundles (repositories) than as individual files.  Others like
+    Google docs in which 1 document is atomic and independent is better saved individually since there
+    typically are no other files that are being changed at the same time.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log provides a history of all commits, git diff allows you to compare these different commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Version controls gives you peace of mind that any changes you make can always be rolled back in case 
+    something breaks.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For all my android studio projects henceforth, as well as small non-android projects.
