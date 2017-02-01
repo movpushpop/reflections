@@ -39,3 +39,9 @@ each branch still has their own parent going back to when the branch was created
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Gits auto merging is helpful because it effortlessly merges branches when people are working
+on different parts.  Auto merging does not working if say users modify the same function so
+it requires collaboration to determine which merge is the best one.  The con is this may take
+more time to resolve, the pro is that collaboration is almost always helpful and a learning
+opportunity in these cases.
