@@ -33,5 +33,9 @@ they deviated from the master or other branches.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging 2 branches together is that changes from both brnaches are combined
+into a single branch,  It is represented in a diagram as to branches coming together because
+each branch still has their own parent going back to when the branch was created.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
